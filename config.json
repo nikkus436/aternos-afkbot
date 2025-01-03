@@ -1,5 +1,5 @@
 {
-	"ip":"niccolos.aternos.me",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
+	"ip":"niccolos.aternos.me:26212",
+	"port": "26212",
 	"name": "nikkusbot"
 }
